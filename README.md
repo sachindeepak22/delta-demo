@@ -1,2 +1,2 @@
 # delta-demo
-This is my first file for delta course of Apna college
+This is my first file from delta course of Apna college
